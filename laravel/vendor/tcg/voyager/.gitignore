@@ -1,8 +1,8 @@
 /node_modules
-.DS_Store
-.idea
 vendor
 build
+.DS_Store
+.idea
 .lock
 composer.lock
 .phpunit.result.cache
